@@ -1,95 +1,78 @@
-<div align="center">
+<h1 align="center">Olá 👋, eu sou Maurício Araújo</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=220&section=header&text=Maurício%20Araújo&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20|%20React%20|%20TypeScript&descAlignY=58"/>
+<h3 align="center">Desenvolvedor Front-end | Estudante de Sistemas para Internet</h3>
 
-</div>
-
-# 👋 Olá!
-
-Sou **Maurício Araújo**, estudante de **Sistemas para Internet** e apaixonado por desenvolvimento Front-end.
-
-Atualmente estudo **React**, **TypeScript** e **Node.js**, desenvolvendo projetos para aprimorar minhas habilidades e construir interfaces modernas, responsivas e acessíveis.
+<p align="center">
+Sou apaixonado por tecnologia e desenvolvimento web. Atualmente curso Tecnólogo em Sistemas para Internet e estou desenvolvendo projetos para aperfeiçoar minhas habilidades em Front-end, criando interfaces modernas, responsivas e focadas na experiência do usuário.
+</p>
 
 ---
 
 ## 🚀 Tecnologias
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,npm"/>
-
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode" />
 </p>
 
 ---
 
-## 📚 Estudando atualmente
+## 📚 Atualmente estudando
 
 - React
 - TypeScript
 - Node.js
 - APIs REST
 - Git e GitHub
+- Desenvolvimento Front-end
 
 ---
 
-## 💼 Projetos
-
-| Projeto | Tecnologias |
-|---------|-------------|
-| Landing Page Responsiva | HTML • CSS • JavaScript |
-| Lista de Tarefas | JavaScript |
-| Calculadora | HTML • CSS • JS |
-| Portfólio Pessoal | React |
-| Sistema de Login | React + TypeScript |
-
----
-
-## 📈 Estatísticas
+## 📊 Estatísticas
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mauricioaraujodev&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioaraujodev&layout=compact&theme=tokyonight"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🔥 Sequência de Contribuições
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mauricioaraujodev&theme=tokyonight"/>
-
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🌎 Contato
+## 🌎 Conecte-se comigo
 
-<p align="center">
+<p align="left">
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-<a href="https://www.linkedin.com/in/mauricioaraujodeoliveira/">
+<a href="https://linkedin.com/in/SEU_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:mauricioaraujodevelop@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
-<a href="https://github.com/mauricioaraujodev">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
 </p>
 
 ---
 
-<div align="center">
+## 💡 Objetivos
 
-### ⭐ Obrigado pela visita!
+✔ Evoluir como Desenvolvedor Front-end
 
-</div>
+✔ Contribuir para projetos Open Source
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=120&section=footer"/>
+✔ Desenvolver aplicações modernas com React e TypeScript
+
+✔ Aprender novas tecnologias continuamente
+
+---
+
+⭐ Obrigado por visitar meu perfil!
