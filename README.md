@@ -84,3 +84,31 @@ Estou em busca da minha **primeira oportunidade como Desenvolvedor Front-end**, 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:1e293b&height=120&section=footer"/>
 
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: mauricioaraujodev
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
