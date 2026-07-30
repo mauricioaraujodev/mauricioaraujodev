@@ -6,9 +6,11 @@
 
 # 👋 Olá!
 
-Sou **Maurício Araújo**, estudante de **Sistemas para Internet** e apaixonado por desenvolvimento Front-end.
+Sou **Maurício Araújo**, estudante de **Tecnólogo em Sistemas para Internet** e desenvolvedor Front-end em formação.
 
-Atualmente estudo **React**, **TypeScript** e **Node.js**, desenvolvendo projetos para aprimorar minhas habilidades e construir interfaces modernas, responsivas e acessíveis.
+Tenho foco no desenvolvimento de interfaces modernas, responsivas e acessíveis utilizando **HTML, CSS, JavaScript, TypeScript e React**. Atualmente, estou aprimorando meus conhecimentos em **Node.js**, consumo de APIs e boas práticas de desenvolvimento, construindo projetos que fortalecem meu portfólio e minha experiência prática.
+
+Estou em busca da minha **primeira oportunidade como Desenvolvedor Front-end**, onde possa contribuir, aprender continuamente e crescer profissionalmente.
 
 ---
 
